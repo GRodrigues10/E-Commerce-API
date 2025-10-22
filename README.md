@@ -5,6 +5,24 @@ Uma API de e-commerce simples para gerenciar produtos. Ideal para integração c
 [![API Status](https://img.shields.io/badge/status-active-brightgreen)]()
 [![Deploy](https://img.shields.io/badge/deploy-Render-blue)]()
 
+--- 
+## ⚙️ Tecnologias Utilizadas
+
+- Node.js
+
+- JavaScript
+
+- Insomnia
+
+- Express.js
+
+- MongoDB
+
+- Mongoose
+
+- Deploy: Render
+
+
 ## 🌐 Base URL
 https://e-commerce-api-58n9.onrender.com/products
 
@@ -62,20 +80,4 @@ Link: https://e-commerce-api-58n9.onrender.com/products/1
 ]
 ```
 
---- 
-### ⚙️ Tecnologias
-
-- Node.js
-
-- JavaScript
-
-- Insomnia
-
-- Express.js
-
-- MongoDB
-
-- Mongoose
-
-- Deploy: Render
 
