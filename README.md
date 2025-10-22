@@ -21,7 +21,7 @@ Uma API de e-commerce simples para gerenciar produtos. Ideal para integração c
 - Mongoose
 
 - Deploy: Render
-
+---
 
 ## 🌐 Base URL
 https://e-commerce-api-58n9.onrender.com/products
