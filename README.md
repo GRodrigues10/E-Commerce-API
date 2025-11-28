@@ -1,6 +1,6 @@
 # 🛒 E-Commerce API
 
-Uma API de e-commerce simples para gerenciar produtos. Ideal para integração com aplicações front-end, testes e prototipagem de lojas online.
+Uma API de e-commerce para gerenciar produtos. Ideal para integração com aplicações front-end, testes e prototipagem de lojas online.
 
 [![API Status](https://img.shields.io/badge/status-active-brightgreen)]()
 [![Deploy](https://img.shields.io/badge/deploy-Render-blue)]()
